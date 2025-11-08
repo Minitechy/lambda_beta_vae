@@ -69,7 +69,8 @@ data/
 
 ### Pre-trained Models and Results
 Pre-trained models, metrics, and visualizations from training runs are available for download. These can be used to reproduce or analyze results without re-training.
-- β-VAE: https://drive.google.com/file/d/16sRxDmvYtoxv9KT6PM66eKAydmnPmZL4/view?usp=drive_link
+- β-VAE: https://drive.google.com/file/d/1ofhdRkt4kaD7aLhTqq9FE2KIMQksmbyi/view?usp=drive_link
+- λβ-VAE: https://drive.google.com/file/d/1hMtkOc98jUykIUOlXC-9G8YugjCDEvVf/view?usp=drive_link
 
 ## Project Structure
 - `config.py`: Configuration settings.
