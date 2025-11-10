@@ -84,7 +84,7 @@ data/
 ```
 
 ## Results
-- **Metrics**: Reconstruction loss (NLL), KL divergence, L2 loss (for λβ-VAE), MIG, SAP, $I_m$.
+- **Metrics**: Reconstruction loss (NLL), MIG, SAP, $I_m$.
 - **Visualizations**:
   - Original and reconstructed image grids.
   - Latent traversal animations (GIFs).
