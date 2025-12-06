@@ -95,8 +95,11 @@ data/
 
 ### Pre-trained Models and Results
 Pre-trained models, metrics, and visualizations from training runs are available for download. These can be used to reproduce or analyze results without re-training.
-- β-VAE (nonlinear): https://drive.google.com/file/d/1ofhdRkt4kaD7aLhTqq9FE2KIMQksmbyi/view?usp=drive_link
-- λβ-VAE (nonlinear): https://drive.google.com/file/d/1AMGOE_MrNIQjRhlMHL73AQMQe4R7Qd9B/view?usp=drive_link
+- $\beta=[1,4,8,16,32], \lambda=[0,2,4,6,8], m=10$:
+   - β-VAE (nonlinear): https://drive.google.com/file/d/1ofhdRkt4kaD7aLhTqq9FE2KIMQksmbyi/view?usp=drive_link
+   - λβ-VAE (nonlinear): https://drive.google.com/file/d/1AMGOE_MrNIQjRhlMHL73AQMQe4R7Qd9B/view?usp=drive_link
+- $\beta=[1,4,8,16,32,64,128,256], \lambda=[0,4,8,16,32], m=15$:
+   - Combined results: https://drive.google.com/file/d/1F1h61Mes_uZ6JJ_byv9ZlkuTyngou88H/view?usp=drive_link
 
 ## Project Structure
 - `config.py`: Configuration settings.
